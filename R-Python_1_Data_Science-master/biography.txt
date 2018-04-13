@@ -1,0 +1,18 @@
+Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
+1. What is your name?
+My name is Venkat Soujit Polireddy	
+2. Why are you interested in Data Science?
+I am really intrested in learning Python, R and Hadoop to unlock what analytics can do. I feel like the subject matter is really intriguing to me. Parallel processing and use of 
+commodity hardware to run data crunching is really interesting.
+3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+I have some programming experince, I graduated with a CS degree and have programmed some while on the job. I have work in Java and Shell scripting experience. Backend and middle tier
+developement and along with data warehousing with shell scripting.
+4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+I have taken the 2 stats courses in College Stats I and II. I am going to rusty and dont remember alot but i find some time to get back to speed.
+5.  Do you have other experience with R or Python?
+I have experience in Python and programmed in python outside of work and personal pet projects and learning.
+6.  What do you hope to learn in this class?
+I hope to delve in to R and Python and learn the packages necessary to be a skilled analytical pro. haha
+7.  Is there anything else you would like to share with us?
+That's about it, but I am really really interested in Data Science and how it is unfolding as the next big thing.
+I am glad i jumped in as it begins to gain major momentum.
